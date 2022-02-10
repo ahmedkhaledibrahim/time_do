@@ -1,6 +1,5 @@
 # time_do
 
-![HomeScreen](https://drive.google.com/file/d/1SZ1akofXPPoKOBjToRPU4VgkQuPwK8Re/view?usp=sharing)
 
 
 A  TODO Flutter project.
@@ -17,6 +16,7 @@ Features :
 -Local Notifications
 
 Screenshots:
+![HomeScreen](https://drive.google.com/file/d/1SZ1akofXPPoKOBjToRPU4VgkQuPwK8Re/view?usp=sharing)
 
 ![HomeScreen](blob:https://web.whatsapp.com/bc416cfd-1ed7-4b76-b736-27f0379300a9)
 
