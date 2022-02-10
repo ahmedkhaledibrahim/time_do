@@ -14,7 +14,7 @@ Features :
 -Local Notifications
 
 Screenshots:
-(blob:https://web.whatsapp.com/213c71a5-ef84-45b8-ac09-701728d24d14)
+![HomeScreen](blob:https://web.whatsapp.com/213c71a5-ef84-45b8-ac09-701728d24d14)
 
 ![HomeScreen](blob:https://web.whatsapp.com/bc416cfd-1ed7-4b76-b736-27f0379300a9)
 
