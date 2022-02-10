@@ -1,10 +1,19 @@
 # time_do
 
-A new Flutter project.
+A  TODO Flutter project.
 
 ## Getting Started
+Flutter application
 
-This project is a starting point for a Flutter application.
+-Design Pattern : MVC
+-Database(local) : SQFLite
+-State Managament : GETX
+
+Features :
+-Dark Mode
+-Local Notifications
+
+
 
 A few resources to get you started if this is your first Flutter project:
 
